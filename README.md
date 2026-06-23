@@ -1,7 +1,7 @@
 ## Featured PM resources
 
-- [Integration PRD & Spec Writer](https://github.com/pandium/integration-prd-spec-writer) – Claude skill to generate implementation-ready integration PRDs and technical specs.
-- [Integration Priority Framework](https://github.com/pandium/integration-priority-framework) – Claude skill to prioritize SaaS integrations using demand, revenue impact, strategy, and delivery realism.
+- [Integration PRD & Spec Writer](https://github.com/pandium/product-manager-skills/tree/0787bbdc1bf3825f66e9dfae9f942d1e03c6296d/integration-prd-spec-writer) – Claude skill to generate implementation-ready integration PRDs and technical specs.
+- [Integration Priority Framework](https://github.com/pandium/product-manager-skills/tree/0787bbdc1bf3825f66e9dfae9f942d1e03c6296d/integration-priority-framework) – Claude skill to prioritize SaaS integrations using demand, revenue impact, strategy, and delivery realism.
 
 ## Who it is for
 
