@@ -1,9 +1,7 @@
-# Product Manager Skills
+## Featured PM resources
 
-Product Manager Integration Skills for LLMs: reusable skills that turn any modern LLM into a practical assistant for PMs building integrations. 
-
-Each skill encodes a proven integration PM framework to support discovery, roadmaps, PRDs, integration planning, and stakeholder comms.
-
+- [Integration PRD & Spec Writer](https://github.com/pandium/integration-prd-spec-writer) – Claude skill to generate implementation-ready integration PRDs and technical specs.
+- [Integration Priority Framework](https://github.com/pandium/integration-priority-framework) – Claude skill to prioritize SaaS integrations using demand, revenue impact, strategy, and delivery realism.
 
 ## Who it is for
 
